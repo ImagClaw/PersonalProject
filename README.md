@@ -1,4 +1,10 @@
-# Decimal to Roman Numerals.
+# Personal Projects
+
+### Searching for SubStrings. perPrompt1.c
+
+TODO
+
+### Decimal to Roman Numerals (and vice versa). perPrompt4.c
 
 User will input a (positive) decimal number that will be converted to Roman Numeral equivalent.
 
