@@ -8,11 +8,13 @@ TODO
 
 User will input a (positive) decimal number that will be converted to Roman Numeral equivalent.
 
-`100 == C`
-`50 == L`
-`10 == X`
-`5 == V`
-`1 == I`
+| Decimal   |   Roman Numeral   |
+| -------   |:-----------------:|
+| 100       | C                 |
+| 50        | L                 |
+| 10        | X                 |
+| 5         | V                 |
+| 1         | I                 |
 
 - Ask user for a decimal input (bw 1 - 100) and store it in the variable decNum.
 - If the number is less than 0, print the output as “Invalid Input”.
