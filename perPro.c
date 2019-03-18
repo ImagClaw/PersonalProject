@@ -1,3 +1,10 @@
+/*
+* name: Whelpley
+* date: 18 March 2019
+* project: Performance Prompt #4 - Dec2RomanNumber
+*
+*/
+
 #include <stdio.h> 
 #include <string.h>
 
