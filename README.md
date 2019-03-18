@@ -1,4 +1,4 @@
-# Decimal to Roman Numberals.
+# Decimal to Roman Numerals.
 
 User will input a (positive) decimal number that will be converted to Roman Numeral equivalent.
 
