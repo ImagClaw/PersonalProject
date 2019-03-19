@@ -2,7 +2,15 @@
 
 ### Searching for SubStrings. perPrompt1.c
 
-TODO
+User will input a string followed by a search term.
+
+- Ask user for input.
+- Scan input into an integer capable of handling ~10000 chars
+- Ask user for a search string to search through the users input
+- Using strstr() find the first occurance and print out the rest of the string from that word.
+- Loop to find the next occurance and print the remaining string from the second occurance using strstr(ret +1, searchStr)
+- Print out the rest of the string from that second occurance of the word.
+- exit_successful
 
 ### Decimal to Roman Numerals (and vice versa). perPrompt4.c
 
